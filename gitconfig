@@ -1,10 +1,10 @@
 [user]
-	name = Nate Vick
-	email = nate.vick@hint.io
+	name = Matt Hohman
+	email = matt@hohman.codes
 [push]
 	default = simple
 [github]
-	user = nvick
+	user = hohmancodes
 [core]
 	excludesfile = ~/.gitignore_global
 	editor = code --wait
