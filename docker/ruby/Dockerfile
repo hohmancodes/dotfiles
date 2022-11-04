@@ -5,7 +5,7 @@ ENV DOCKER_BUILDKIT=1
 RUN apt-get update
 
 ARG INSTALL_ZSH="true"
-ARG USER="natevick"
+ARG USER="mhohman"
 ARG UID="1000"
 
 # Download script and run it with the option above
