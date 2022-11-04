@@ -107,7 +107,6 @@ alias i3rc="code ~/.config/i3/config"
 #alias vrc="vim ~/.vimrc"
 source <(kubectl completion zsh)
 source  <(doctl completion zsh)
-eval "$(op completion zsh)"; compdef _op op
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
